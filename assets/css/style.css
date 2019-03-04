@@ -1,0 +1,9 @@
+body {
+    background-image: url("../images/batman-bkgrnd-02.jpeg");
+    background-color: red;
+}
+
+div {
+    border-style: dotted;
+    border-width: 1px;
+}
