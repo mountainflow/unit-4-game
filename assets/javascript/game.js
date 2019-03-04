@@ -44,16 +44,10 @@ $(document).ready(function () {
             $(".image").off("click");
         };
         if (leftDiv === "batman") {
+
             console.log(batman.healthPoints);
         };
     });
-
-    // function leftPlayer() {
-    //     if (leftDiv === "batman") {
-    //         console.log(batman.healthPoints);
-    //     };
-    // };
-
 
 
     // assign `Health Points`, `Attack Power` and `Counter Attack Power` to each player
