@@ -4,7 +4,20 @@ body {
     color: white;
 }
 
-div {
+/* div {
     border-style: dotted;
     border-width: 1px;
+} */
+
+button.attack {
+    margin: 60px 0 30px 0;
+}
+
+div.image {
+    display: inline-block;
+    margin: 0 20px 0 20px;
+}
+
+p.players {
+    margin-bottom: 1px;
 }
